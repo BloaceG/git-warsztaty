@@ -1,1 +1,1 @@
-# Zadanie-z-Git-GitHub
+Vladyslav Dvorakovskyi
